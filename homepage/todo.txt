@@ -1,0 +1,25 @@
+To Do
+
+
+- Understand the exercise (DONE)
+- Validate the code you've inherited (DONE)
+- Get it work
+-- Break it down into building blocks
+-- Get each building to work on it's own
+-- Put it together
+- Refine it
+
+
+Building blocks
+- Title banner 
+-- Fonts
+-- Background color grey
+-- Shadow
+-- SVG
+- Flexbox 
+-- Create 2 rows 
+--- Title
+--- Crop the image
+-- Split second row into 3 parts
+--- Fonts
+--- Buttons
