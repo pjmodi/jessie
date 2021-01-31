@@ -2,29 +2,31 @@
 <head>
 	<style>
 		.wrapper {
+			background-color: #EEE;
 			display: flex;
 			flex-direction: column;
+			width: 1000px;
+			height: 100%;
 		}
 
-		.row1, .row2 {
+		.wrapper > * {
 			flex-grow: 1;
 		}
 
 		.row1 {
-			padding: 50px;
+			padding: 10px;
 			margin-bottom: 10px;
-			border: 1px solid #CCC;
-		}
+			border: 1px solid #00F;
+		} 
 
 		.row2 {
 			display: flex;
-			flex-direction: row;
 		}
 
 		.row2 > section {
 			flex-grow: 1;
-			padding: 50px;
-			border: 1px solid #CCC;
+			padding: 10px;
+			border: 1px solid #F00;
 		}
 
 		.row2 > .middle {

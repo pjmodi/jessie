@@ -1,5 +1,5 @@
 To Do
-
+-----
 
 - Understand the exercise (DONE)
 - Validate the code you've inherited (DONE)
@@ -16,6 +16,8 @@ Building blocks
 -- Background color grey
 -- Shadow
 -- SVG
+
+
 - Flexbox 
 -- Create 2 rows 
 --- Title
